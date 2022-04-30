@@ -4,4 +4,4 @@ Open Web Labs is a non-profit organization that takes great inspiration from the
 
 The foundation is hoping to break the trend of creating separate legal entities to support individual specifications, coming out of the realization that we could come together and generalize our efforts."
 
-WAGMI ❤️
+wagmi ❤️
