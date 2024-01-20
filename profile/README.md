@@ -15,4 +15,4 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 “Remove the boilerplate, focus on what matters.”
 
-### Stay tune. Coming soon.
+### Stay tuned. Coming soon.
