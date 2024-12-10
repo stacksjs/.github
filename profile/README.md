@@ -1,3 +1,5 @@
+![Social Card of Stacks](https://github.com/stacksjs/stacks/blob/fe50d79671e068df15333971d13c982721d2b2f3/public/images/logos/social.jpg?raw=true)
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 ## About Stacks
