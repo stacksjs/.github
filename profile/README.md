@@ -15,6 +15,6 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - Simplistic, powerful caching.
 - Fully-typed database ORM.
 
-“Remove the boilerplate, focus on what matters.”
+> _“Remove the boilerplate, focus on what matters & supercharge your development.”_
 
 ### Stay tuned. Coming soon.
