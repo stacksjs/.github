@@ -4,7 +4,7 @@
 
 ## About Stacks
 
-Discover the power of Stacks, a modern web application framework developed in TypeScript. Our philosophy centers around crafting an exceptional DX, one that empowers developers to build world-class web applications, libraries, and modern clouds.
+Discover the power of Stacks, a modern web application framework developed in TypeScript. Our philosophy centers around crafting an exceptional DX, one that empowers developers to build world-class web applications, libraries, and endlessly scalable clouds.
 
 - Automated database-agnostic schema migrations, seeders & factories.
 - Self-hosted and self-managed cloud infrastructure.
