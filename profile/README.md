@@ -31,7 +31,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
-- [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF 89a encoder & decoder.
+- [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-jpeg](https://github.com/stacksjs/ts-jpeg) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files. ts-ndarray
