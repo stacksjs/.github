@@ -26,6 +26,8 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [dnsx](https://github.com/stacksjs/dnsx) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
 - [httx](https://github.com/stacksjs/httx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
 - [imgx](https://github.com/stacksjs/imgx) - Make your images load faster. _A better save for the web._
+- [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
+- [pngx](https://github.com/stacksjs/pngx) - Modern PNG encoder & decoder.
 - [qrx](https://github.com/stacksjs/qrx) - QR & Bar Code generating & reading. _Lightweight & powerful._
 - [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
@@ -33,9 +35,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
-- [ts-jpeg](https://github.com/stacksjs/ts-jpeg) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
-- [ts-png](https://github.com/stacksjs/ts-png) - Modern PNG encoder & decoder.
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [ts-svg](https://github.com/stacksjs/ts-svg) - Powerful developer toolkit for working with SVGs.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
