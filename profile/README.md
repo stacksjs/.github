@@ -30,11 +30,15 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
+- [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-jpeg](https://github.com/stacksjs/ts-jpeg) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
-- [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files. ts-ndarray
+- [ts-png](https://github.com/stacksjs/ts-png) - Modern PNG encoder & decoder.
+- [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
+- [ts-svg](https://github.com/stacksjs/ts-svg) - Powerful developer toolkit for working with SVGs.
+- [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
