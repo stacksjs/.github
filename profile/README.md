@@ -43,7 +43,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
 - [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx) - Automatically generate your TypeScript DTS files, using Bun's bundler.
-- [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss) - “Instant On-demand Atomic CSS Engine” - UnoCSS
+- [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss) - “Instant On-demand Atomic CSS Engine” _- UnoCSS_
 - [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local) - Pretty development URLs, and HTTPS. _Zero config, zero setup._
 
 
