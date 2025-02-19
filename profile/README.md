@@ -28,9 +28,9 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [imgx](https://github.com/stacksjs/imgx) - Make your images load faster. _A better save for the web._
 - [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [pngx](https://github.com/stacksjs/pngx) - Modern PNG encoder & decoder.
+- [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
 - [qrx](https://github.com/stacksjs/qrx) - QR & Bar Code generating & reading. _Lightweight & powerful._
 - [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
-- [smtpx](https://github.com/stacksjs/smtpx) - Local STMP utilities. _Need an STMP server?_
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 - [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
