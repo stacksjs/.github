@@ -37,6 +37,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
+- [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [ts-svg](https://github.com/stacksjs/ts-svg) - Powerful developer toolkit for working with SVGs.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
