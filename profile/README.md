@@ -19,6 +19,8 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 ### A few highlights
 
+#### Libraries & CLIs
+
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
 - [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
 - [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
@@ -46,6 +48,9 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
+
+#### Plugins
+
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
 - [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx) - A Bun plugin to seamlessly work with dotenvx.
 - [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx) - Automatically generate your TypeScript DTS files, using Bun's bundler.
