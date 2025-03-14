@@ -17,7 +17,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 > _“Remove the boilerplate, focus on what matters & supercharge your development.”_
 
-### A few highlights
+### A few highlights...
 
 #### Libraries & CLIs
 
