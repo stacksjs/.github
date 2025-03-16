@@ -19,6 +19,12 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 ### A few highlights...
 
+#### Apps
+
+- [Barista](https://github.com/stacksjs/barista) - A lightweight macOS utility that serves up a perfectly organized menubar.
+- [Pomodoro](https://github.com/stacksjs/pomodoro) - Minimal, functional, yet simple Pomodoro menubar app, to help stay focussed. _For Mac._
+
+
 #### Libraries & CLIs
 
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
@@ -58,4 +64,8 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx) - A Vite plugin to seamlessly work with dotenvx.
 - [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local) - Pretty development URLs, and HTTPS. _Zero config, zero setup._
 
-#### Stay tuned. Coming soon.
+#### Templates
+
+- [projects](https://github.com/stacksjs/projects) - A minimal personal portfolio template.
+
+### Stay tuned. Coming soon.
