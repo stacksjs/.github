@@ -28,19 +28,20 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
 - [buddy](https://github.com/stacksjs/buddy) - The Stacks CLI.
+- [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
+- [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
-- [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
 - [dnsx](https://github.com/stacksjs/dnsx) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
 - [httx](https://github.com/stacksjs/httx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
 - [imgx](https://github.com/stacksjs/imgx) - Make your images load faster. _A better save for the web._
 - [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
+- [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
 - [pngx](https://github.com/stacksjs/pngx) - Modern PNG encoder & decoder.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
 - [qrx](https://github.com/stacksjs/qrx) - QR & Bar Code generating & reading. _Lightweight & powerful._
 - [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
-- [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 - [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-countries](https://github.com/stacksjs/ts-countries) - Modern, lightweight, elegant country data management.
@@ -52,8 +53,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [ts-svg](https://github.com/stacksjs/ts-svg) - Powerful developer toolkit for working with SVGs.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
-- [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
-- [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
+- [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 
 #### Plugins
 
