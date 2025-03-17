@@ -24,10 +24,10 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [Barista](https://github.com/stacksjs/barista) - A lightweight macOS utility that serves up a perfectly organized menubar.
 - [Pomodoro](https://github.com/stacksjs/pomodoro) - Minimal, functional, yet simple Pomodoro menubar app, to help stay focussed. _For Mac._
 
-
 #### Libraries & CLIs
 
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
+- [buddy](https://github.com/stacksjs/buddy) - The Stacks CLI.
 - [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
 - [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
