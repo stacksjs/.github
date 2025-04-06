@@ -21,7 +21,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 #### Sponsorware
 
-- [Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
+- [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
 - [DynamoDB ORM Driver](https://github.com/stacksjs/stacks) - More than a Stacks ORM driver—automated Single Table Design. _Cheap, fast, serverless._
 
 #### Apps
