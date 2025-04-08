@@ -67,6 +67,11 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 
+#### Frameworks
+
+- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
+
 #### Plugins
 
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
