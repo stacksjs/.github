@@ -41,6 +41,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
 - [dnsx](https://github.com/stacksjs/dnsx) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
+- [gitlint](https://github.com/stacksjs/gitlint) - Minimal & fast Git commit message linting & formatting.
 - [httx](https://github.com/stacksjs/httx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
 - [imgx](https://github.com/stacksjs/imgx) - Make your images load faster. _A better save for the web._
 - [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
