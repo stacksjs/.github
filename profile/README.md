@@ -59,6 +59,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
+- [ts-prompts](https://github.com/stacksjs/ts-prompts) - Build modern & pretty CLI applications.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
 - [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter) - High-performance, flexible rate limiting library. _For TypeScript._
 - [ts-security](https://github.com/stacksjs/ts-security) - Performant & lightweight cryptography tooling.
