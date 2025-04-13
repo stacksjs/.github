@@ -62,8 +62,8 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-prompts](https://github.com/stacksjs/ts-prompts) - Build modern & pretty CLI applications.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
 - [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter) - High-performance, flexible rate limiting library. _For TypeScript._
-- [ts-security](https://github.com/stacksjs/ts-security) - Lightweight slug generation. _Browser & Bun / Node.js compatible._
-- [ts-slug](https://github.com/stacksjs/ts-slug) - Performant & lightweight cryptography tooling.
+- [ts-security](https://github.com/stacksjs/ts-security) - Performant & lightweight cryptography tooling.
+- [ts-slug](https://github.com/stacksjs/ts-slug) - Lightweight slug generation. _Browser & Bun / Node.js compatible._
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [ts-svg](https://github.com/stacksjs/ts-svg) - Powerful developer toolkit for working with SVGs.
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
