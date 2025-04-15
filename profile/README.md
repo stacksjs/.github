@@ -73,8 +73,9 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 #### Frameworks
 
-- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
+- [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
+- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
 
 #### Plugins
 
