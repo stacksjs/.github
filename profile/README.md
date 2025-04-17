@@ -57,6 +57,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-countries](https://github.com/stacksjs/ts-countries) - Modern, lightweight, elegant country data management.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
+- [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-pkgx](https://github.com/stacksjs/ts-pkgx) - Automated Typed Pantry details.
