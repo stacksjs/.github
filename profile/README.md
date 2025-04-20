@@ -78,8 +78,9 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
 - [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
 
-#### Plugins
+#### Plugins & Actions
 
+- [action-releaser](https://github.com/stacksjs/action-releaser) - Simply attach files, like binaries & distributables, to GitHub Releases.
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
 - [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx) - A Bun plugin to seamlessly work with dotenvx.
 - [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx) - Automatically generate your TypeScript DTS files, using Bun's bundler.
