@@ -19,6 +19,12 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 ### A few highlights...
 
+#### Frameworks
+
+- [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
+- [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
+- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
+
 #### Sponsorware
 
 - [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
@@ -72,12 +78,6 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
-
-#### Frameworks
-
-- [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
-- [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
-- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
 
 #### Plugins & Actions
 
