@@ -42,8 +42,8 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [aax](https://github.com/stacksjs/aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
 - [buddy](https://github.com/stacksjs/buddy) - The Stacks CLI.
-- [bun-bullish](https://github.com/stacksjs/bullish) - A modern port of BullMQ. _Optimized for Bun usage._
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
+- [bun-queue](https://github.com/stacksjs/bullish) - A modern port of BullMQ. _Optimized for Bun usage._
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
