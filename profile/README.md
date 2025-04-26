@@ -69,7 +69,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
-- [ts-numbers](https://github.com/stacksjs/ts-numbers) - Lightweight currencies, weights & phone numbers. _Localized._
+- [ts-numbers](https://github.com/stacksjs/ts-numbers) - Lightweight currencies, weights, phone numbers, and more. _Localized._
 - [ts-pkgx](https://github.com/stacksjs/ts-pkgx) - Automated Typed Pantry details.
 - [ts-prompts](https://github.com/stacksjs/ts-prompts) - Build modern & pretty CLI applications.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
