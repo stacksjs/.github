@@ -38,6 +38,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 <!-- - [aax](https://github.com/stacksjs/aax) - An app to easily convert your Audible files. -->
 - [Barista](https://github.com/stacksjs/barista) - A lightweight macOS utility that serves up a perfectly organized menubar.
+- [Hush](https://github.com/stacksjs/hush) - Lightweight macOS utility that ensures notifications are suppressed during meetings.
 - [Pomodoro](https://github.com/stacksjs/pomodoro) - Minimal, functional, yet simple Pomodoro menubar app, to help stay focussed. _For Mac._
 
 #### Libraries & CLIs
