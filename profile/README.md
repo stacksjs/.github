@@ -101,7 +101,9 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx) - A Vite plugin to seamlessly work with dotenvx.
 - [vite-plugin-layouts](https://github.com/stacksjs/vite-plugin-layouts) - Router-based layouts for your application.
 - [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local) - Pretty development URLs, and HTTPS. _Zero config, zero setup._
+- [vite-plugin-rpx](https://github.com/stacksjs/rpx) - A Vite plugin for a modern, fast reverse proxy. _For a better local development environment._
 - [vite-plugin-tauri](https://github.com/stacksjs/vite-plugin-tauri) - Zero-setup, highly-configurable cross-platform development.
+- [vite-plugin-tlsx](https://github.com/stacksjs/tlsx) - Simple, yet powerful TLS library. _With automation & HTTPS by default._
 
 #### Templates
 
