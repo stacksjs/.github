@@ -109,6 +109,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 - [projects](https://github.com/stacksjs/projects) - A minimal personal portfolio template.
 - [ts-starter](https://github.com/stacksjs/ts-starter) - A rather barebones Bun & TypeScript starting point for libraries & CLIs.
+- [ts-starter-monorepo](https://github.com/stacksjs/ts-starter-monorepo) - Like our `ts-starter`, but optimized for monorepos.
 
 ___
 
