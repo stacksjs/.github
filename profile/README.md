@@ -58,6 +58,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [httx](https://github.com/stacksjs/httx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
 - [imgx](https://github.com/stacksjs/imgx) - Make your images load faster. _A better save for the web._
 - [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
+- [launchpad](https://github.com/stacksjs/launchpad) - Similar to Homebrew. _Just faster._
 - [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
 - [pngx](https://github.com/stacksjs/pngx) - Modern PNG encoder & decoder.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
