@@ -92,6 +92,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 #### Plugins & Actions
 
+- [action-launchpad](https://github.com/stacksjs/launchpad) - GitHub Action to install packages using Launchpad.
 - [action-releaser](https://github.com/stacksjs/action-releaser) - Simply attach files, like binaries & distributables, to GitHub Releases.
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
 - [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx) - A Bun plugin to seamlessly work with dotenvx.
