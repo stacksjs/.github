@@ -46,6 +46,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [aax](https://github.com/stacksjs/aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
 - [buddy](https://github.com/stacksjs/buddy) - The Stacks CLI.
+- [bumpx](https://github.com/stacksjs/bumpx) - Bump your version numbers automatically.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
 - [bun-queue](https://github.com/stacksjs/queue) - A modern port of BullMQ. _Optimized for Bun usage._
 - [bun-router](https://github.com/stacksjs/router) - A powerful yet lightweight router for your server. _Used by Stacks._
@@ -60,6 +61,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [launchpad](https://github.com/stacksjs/launchpad) - Similar to Homebrew. _Just faster._
 - [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
+- [logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
 - [pngx](https://github.com/stacksjs/pngx) - Modern PNG encoder & decoder.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
 - [qrx](https://github.com/stacksjs/qrx) - QR & Bar Code generating & reading. _Lightweight & powerful._
@@ -93,6 +95,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 #### Plugins & Actions
 
 - [action-launchpad](https://github.com/stacksjs/launchpad) - GitHub Action to install packages using Launchpad.
+- [action-logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
 - [action-releaser](https://github.com/stacksjs/action-releaser) - Simply attach files, like binaries & distributables, to GitHub Releases.
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
 - [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx) - A Bun plugin to seamlessly work with dotenvx.
