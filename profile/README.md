@@ -23,6 +23,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 - [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
 - [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
+- [Launchpad](https://github.com/stacksjs/launchpad) - Performant system & project dependency management. _Similar to Homebrew, just faster._
 - [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [stx](https://github.com/stacksjs/stx) - A fast & powerful UI framework. _Templating inspired by Laravel Blade & Vue._
 
@@ -60,7 +61,6 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [httx](https://github.com/stacksjs/httx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
 - [imgx](https://github.com/stacksjs/imgx) - Make your images load faster. _A better save for the web._
 - [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
-- [launchpad](https://github.com/stacksjs/launchpad) - Similar to Homebrew. _Just faster._
 - [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
 - [logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
 - [pngx](https://github.com/stacksjs/pngx) - Modern PNG encoder & decoder.
