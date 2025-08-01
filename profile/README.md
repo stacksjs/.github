@@ -47,7 +47,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [aax](https://github.com/stacksjs/aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
 - [backupx](https://github.com/stacksjs/backupx) - Comprehensive & performant database and file backup solution.
-- [buddy](https://github.com/stacksjs/buddy) - The Stacks CLI.
+- [buddy-bot](https://github.com/stacksjs/buddy) - Just like Renovate and Dependabot, just open source & self-hosted.
 - [bumpx](https://github.com/stacksjs/bumpx) - Bump your version numbers automatically.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
 - [bun-queue](https://github.com/stacksjs/queue) - A modern port of BullMQ. _Optimized for Bun usage._
