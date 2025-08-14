@@ -50,6 +50,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [buddy-bot](https://github.com/stacksjs/buddy) - Just like Renovate and Dependabot, just open source & self-hosted.
 - [bumpx](https://github.com/stacksjs/bumpx) - Bump your version numbers automatically.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
+- [bun-query-builder](https://github.com/stacksjs/bun-query-builder) - A safe, performant & fully-typed query builder.
 - [bun-queue](https://github.com/stacksjs/queue) - A modern port of BullMQ. _Optimized for Bun usage._
 - [bun-router](https://github.com/stacksjs/router) - A powerful yet lightweight router for your server. _Used by Stacks._
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
@@ -75,6 +76,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-countries](https://github.com/stacksjs/ts-countries) - Modern, lightweight, elegant country data management.
 - [ts-datetime](https://github.com/stacksjs/ts-datetime) - Performant & powerful datetime library. _Carbon-API inspired._
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
+- [ts-i18n](https://github.com/stacksjs/ts-i18n) - A fully-typed i18n experience.
 - [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor) - A modern, minimal & performant Medium-like rich text editor.
