@@ -29,8 +29,8 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 #### Sponsorware
 
-- [Bun Queue - UI](https://github.com/stacksjs/bun-queue) - A modern & powerful Queue / Messaging system. _Optimized for Bun._
-- [Bun Router - UI](https://github.com/stacksjs/bun-router) - A UI for Bun Router. _High-performance, feature-rich._
+- [`bun-queue`](https://github.com/stacksjs/bun-queue) - A modern & powerful Queue / Messaging system. _Optimized for Bun._
+- [`bun-router`](https://github.com/stacksjs/bun-router) - Powerful routing. _High-performance, feature-rich._
 - [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
 - [Stacks ORM - DynamoDB Driver](https://github.com/stacksjs/stacks) - More than a driver—automated Single Table Design. _Cheap, fast, endless scalability._
 - [Stacks Raycast](https://github.com/stacksjs/stacks) - Stacks _(and Buddy)_ integrated into Raycast.
