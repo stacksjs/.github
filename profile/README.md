@@ -65,7 +65,6 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
 - [logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
-- [nanofaker](https://github.com/stacksjs/nanofaker) - Performance-focused & lightweight TypeScript faker library. _Comprehensive locale support._
 - [pickier](https://github.com/stacksjs/pickier) - Format, lint, and more—in a fraction of second.
 - [pngx](https://github.com/stacksjs/pngx) - Modern PNG encoder & decoder.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
@@ -83,6 +82,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor) - A modern, minimal & performant Medium-like rich text editor.
+- [ts-mocker](https://github.com/stacksjs/ts-mocker) - Performance-focused & lightweight TypeScript faker library. _Comprehensive locale support._
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-numbers](https://github.com/stacksjs/ts-numbers) - Lightweight currencies, weights, phone numbers, and more. _Localized._
 - [ts-pkgx](https://github.com/stacksjs/ts-pkgx) - Automated Typed Pantry details.
