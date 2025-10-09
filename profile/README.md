@@ -94,6 +94,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-slug](https://github.com/stacksjs/ts-slug) - Lightweight slug generation. _Browser & Bun / Node.js compatible._
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [ts-svg](https://github.com/stacksjs/ts-svg) - Powerful developer toolkit for working with SVGs.
+- [ts-syntax-highlighter](https://github.com/stacksjs/ts-syntax-highlighter) - A syntax highlighter for the modern web. _Built for performance._
 - [ts-validation](https://github.com/stacksjs/ts-validation) - Lightweight & performant form & request data validation library.
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
