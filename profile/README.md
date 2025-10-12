@@ -81,6 +81,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-i18n](https://github.com/stacksjs/ts-i18n) - A fully-typed i18n experience.
 - [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
+- [ts-broadcasting](https://github.com/stacksjs/ts-broadcasting) - Realtime the simple & performant way.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor) - A modern, minimal & performant Medium-like rich text editor.
 - [ts-mocker](https://github.com/stacksjs/ts-mocker) - Performance-focused & lightweight TypeScript faker library. _Comprehensive locale support._
