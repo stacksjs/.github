@@ -88,7 +88,6 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-numbers](https://github.com/stacksjs/ts-numbers) - Lightweight currencies, weights, phone numbers, and more. _Localized._
 - [ts-pkgx](https://github.com/stacksjs/ts-pkgx) - Automated Typed Pantry details.
-- [ts-potrace](https://github.com/stacksjs/ts-potrace) - Transform bitmap images into scalable vector graphics.
 - [ts-prompts](https://github.com/stacksjs/ts-prompts) - Build modern & pretty CLI applications.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
 - [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter) - High-performance, flexible rate limiting library. _For TypeScript._
