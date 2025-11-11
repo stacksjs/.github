@@ -105,6 +105,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [ts-web-scraper](https://github.com/stacksjs/ts-web-scraper) - Powerful, type-safe web scraping tooling.
+- [very-happy-dom](https://github.com/stacksjs/very-happy-dom) - A blazing-fast DOM implementation.
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 
 #### Plugins & Actions
