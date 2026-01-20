@@ -21,14 +21,14 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 #### Languages & Frameworks
 
+- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stx](https://github.com/stacksjs/stx) - A fast & powerful UI framework. _Templating inspired by Laravel Blade & Vue._
 - [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
 - [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
 - [Craft](https://github.com/home-lang/craft) - Performant, native desktop & mobile apps with web languages.
 - [Crosswind](https://github.com/cwcss/crosswind) - A Tailwind-like utility-first CSS framework. _Powered by Bun._
 - [Home](https://github.com/home-lang/home) - Speed of Zig. Safety of Rust. Joy of TypeScript.
 - [Pantry](https://github.com/home-lang/pantry) - Performant system & project dependency management. _Similar to Homebrew, just faster._
-- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
-- [stx](https://github.com/stacksjs/stx) - A fast & powerful UI framework. _Templating inspired by Laravel Blade & Vue._
 
 #### Sponsorware
 
