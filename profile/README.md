@@ -24,9 +24,9 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
 - [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
 - [Craft](https://github.com/home-lang/craft) - Performant, native desktop & mobile apps with web languages.
-- [Headwind](https://github.com/stacksjs/headwind) - A Tailwind-like utility-first CSS framework. _Powered by Bun._
-- [Home](https://github.com/home-lang/home) - The speed of Zig. The safety of Rust. The joy of TypeScript.
-- [Launchpad](https://github.com/stacksjs/launchpad) - Performant system & project dependency management. _Similar to Homebrew, just faster._
+- [Crosswind](https://github.com/cwcss/crosswind) - A Tailwind-like utility-first CSS framework. _Powered by Bun._
+- [Home](https://github.com/home-lang/home) - Speed of Zig. Safety of Rust. Joy of TypeScript.
+- [Pantry](https://github.com/home-lang/pantry) - Performant system & project dependency management. _Similar to Homebrew, just faster._
 - [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [stx](https://github.com/stacksjs/stx) - A fast & powerful UI framework. _Templating inspired by Laravel Blade & Vue._
 
@@ -35,7 +35,6 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [`bun-queue`](https://github.com/stacksjs/bun-queue) - A modern & powerful Queue / Messaging system. _Optimized for Bun._
 - [`bun-router`](https://github.com/stacksjs/bun-router) - Powerful routing. _High-performance, feature-rich._
 - [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
-- [Stacks ORM - DynamoDB Driver](https://github.com/stacksjs/stacks) - More than a driver—automated Single Table Design. _Cheap, fast, endless scalability._
 - [Stacks Raycast](https://github.com/stacksjs/stacks) - Stacks _(and Buddy)_ integrated into Raycast.
 
 #### Apps
