@@ -62,7 +62,6 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
 - [pickier](https://github.com/stacksjs/pickier) - Format, lint, and more—in a fraction of second.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
-- [ts-qr-codes](https://github.com/stacksjs/ts-qr-codes) - QR & Bar Code generating & reading. _Lightweight & powerful._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [ts-aax](https://github.com/stacksjs/ts-aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
 - [ts-audio](https://github.com/stacksjs/ts-audio) - Powerful audio processing for your workflows.
@@ -92,6 +91,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-pantry](https://github.com/stacksjs/ts-pantry) - Automated Typed Pantry details.
 - [ts-png](https://github.com/stacksjs/ts-png) - Modern PNG encoder & decoder.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
+- [ts-qr-codes](https://github.com/stacksjs/ts-qr-codes) - QR & Bar Code generating & reading. _Lightweight & powerful._
 - [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter) - High-performance, flexible rate limiting library. _For TypeScript._
 - [ts-reverse-proxy](https://github.com/stacksjs/ts-reverse-proxy) - A modern, fast reverse proxy. _For a better local development environment._
 - [ts-security](https://github.com/stacksjs/ts-security) - Performant & lightweight cryptography tooling.
