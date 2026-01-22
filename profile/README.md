@@ -39,16 +39,12 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 #### Apps
 
-<!-- - [aax](https://github.com/stacksjs/aax) - An app to easily convert your Audible files. -->
 - [Barista](https://github.com/stacksjs/barista) - A lightweight macOS utility that serves up a perfectly organized menubar.
 - [Hush](https://github.com/stacksjs/hush) - Lightweight macOS utility that ensures notifications are suppressed during meetings.
 - [Pomodoro](https://github.com/stacksjs/pomodoro) - Minimal, functional, yet simple Pomodoro menubar app, to help stay focussed. _For Mac._
 
 #### Libraries & CLIs
 
-- [aax](https://github.com/stacksjs/aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
-- [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
-- [backupx](https://github.com/stacksjs/backupx) - Comprehensive & performant database and file backup solution.
 - [besting](https://github.com/stacksjs/besting) - A modern & extremely performant testing framework. _Browser, CLI, API testing-ready._
 - [buddy-bot](https://github.com/stacksjs/buddy) - Just like Renovate and Dependabot, just open source & self-hosted.
 - [bumpx](https://github.com/stacksjs/bumpx) - Bump your version numbers automatically.
@@ -59,31 +55,34 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
-- [dnsx](https://github.com/stacksjs/dnsx) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
 - [gitit](https://github.com/stacksjs/gitit) - A simple way to download templates stored using git.
 - [gitlint](https://github.com/stacksjs/gitlint) - Minimal & fast Git commit message linting & formatting.
 - [httx](https://github.com/stacksjs/httx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
-- [imgx](https://github.com/stacksjs/imgx) - Make your images load faster. _A better save for the web._
-- [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
 - [logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
 - [pickier](https://github.com/stacksjs/pickier) - Format, lint, and more—in a fraction of second.
-- [pngx](https://github.com/stacksjs/pngx) - Modern PNG encoder & decoder.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
 - [qrx](https://github.com/stacksjs/qrx) - QR & Bar Code generating & reading. _Lightweight & powerful._
 - [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
+- [ts-aax](https://github.com/stacksjs/ts-aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
+- [ts-audio](https://github.com/stacksjs/ts-audio) - Powerful audio processing for your workflows.
 - [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
+- [ts-backups](https://github.com/stacksjs/ts-backups) - Comprehensive & performant database and file backup solution.
+- [ts-bmp](https://github.com/stacksjs/ts-bmp) - A pure TypeScript BMP encoder and decoder with zero dependencies.
+- [ts-broadcasting](https://github.com/stacksjs/ts-broadcasting) - Realtime the simple & performant way.
 - [ts-cache](https://github.com/stacksjs/ts-cache) - A fast, type-safe, and feature-rich caching library for modern applications.
 - [ts-clone](https://github.com/stacksjs/ts-clone) - Deeply clone arbitrary objects using TypeScript.
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-countries](https://github.com/stacksjs/ts-countries) - Modern, lightweight, elegant country data management.
 - [ts-datetime](https://github.com/stacksjs/ts-datetime) - Performant & powerful datetime library. _Carbon-API inspired._
+- [ts-dns](https://github.com/stacksjs/ts-dns) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
 - [ts-error-handling](https://github.com/stacksjs/ts-error-handling) - Fully typed error handling.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-i18n](https://github.com/stacksjs/ts-i18n) - A fully-typed i18n experience.
+- [ts-images](https://github.com/stacksjs/ts-images) - Make your images load faster. _A better save for the web._
 - [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
-- [ts-broadcasting](https://github.com/stacksjs/ts-broadcasting) - Realtime the simple & performant way.
+- [ts-jpeg](https://github.com/stacksjs/ts-jpeg) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [ts-markdown](https://github.com/stacksjs/ts-markdown) - Extremely performant & lightweight markdown parser & compiler.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor) - A modern, minimal & performant Medium-like rich text editor.
@@ -91,8 +90,8 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-numbers](https://github.com/stacksjs/ts-numbers) - Lightweight currencies, weights, phone numbers, and more. _Localized._
 - [ts-open-api](https://github.com/stacksjs/ts-open-api) - OpenAPI TypeScript automations.
-- [ts-pkgx](https://github.com/stacksjs/ts-pkgx) - Automated Typed Pantry details.
-- [ts-prompts](https://github.com/stacksjs/ts-prompts) - Build modern & pretty CLI applications.
+- [ts-pantry](https://github.com/stacksjs/ts-pantry) - Automated Typed Pantry details.
+- [ts-png](https://github.com/stacksjs/ts-png) - Modern PNG encoder & decoder.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
 - [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter) - High-performance, flexible rate limiting library. _For TypeScript._
 - [ts-security](https://github.com/stacksjs/ts-security) - Performant & lightweight cryptography tooling.
@@ -102,10 +101,10 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-syntax-highlighter](https://github.com/stacksjs/ts-syntax-highlighter) - A syntax highlighter for the modern web. _Built for performance._
 - [ts-validation](https://github.com/stacksjs/ts-validation) - Lightweight & performant form & request data validation library.
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
+- [ts-videos](https://github.com/stacksjs/ts-videos) - Make your videos load faster. _A better save for the web._
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [ts-web-scraper](https://github.com/stacksjs/ts-web-scraper) - Powerful, type-safe web scraping tooling.
 - [very-happy-dom](https://github.com/stacksjs/very-happy-dom) - A blazing-fast DOM implementation.
-- [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 
 #### Plugins & Actions
 
