@@ -32,8 +32,6 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 #### Sponsorware
 
-- [`bun-queue`](https://github.com/stacksjs/bun-queue) - A modern & powerful Queue / Messaging system. _Optimized for Bun._
-- [`bun-router`](https://github.com/stacksjs/bun-router) - Powerful routing. _High-performance, feature-rich._
 - [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
 - [Stacks Raycast](https://github.com/stacksjs/stacks) - Stacks _(and Buddy)_ integrated into Raycast.
 
