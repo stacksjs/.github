@@ -62,6 +62,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [ts-aax](https://github.com/stacksjs/ts-aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
+- [ts-analytics](https://github.com/stacksjs/ts-analytics) - Privacy-first analytics for web applications.
 - [ts-audio](https://github.com/stacksjs/ts-audio) - Powerful audio processing for your workflows.
 - [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
 - [ts-backups](https://github.com/stacksjs/ts-backups) - Comprehensive & performant database and file backup solution.
