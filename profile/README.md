@@ -70,6 +70,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-broadcasting](https://github.com/stacksjs/ts-broadcasting) - Realtime the simple & performant way.
 - [ts-cache](https://github.com/stacksjs/ts-cache) - A fast, type-safe, and feature-rich caching library for modern applications.
 - [ts-clone](https://github.com/stacksjs/ts-clone) - Deeply clone arbitrary objects using TypeScript.
+- [ts-cloud](https://github.com/stacksjs/ts-cloud) - Zero-dependency, modern infrastructure-as-code framework.
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-countries](https://github.com/stacksjs/ts-countries) - Modern, lightweight, elegant country data management.
 - [ts-datetime](https://github.com/stacksjs/ts-datetime) - Performant & powerful datetime library. _Carbon-API inspired._
