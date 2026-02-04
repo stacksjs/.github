@@ -102,6 +102,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-validation](https://github.com/stacksjs/ts-validation) - Lightweight & performant form & request data validation library.
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
 - [ts-videos](https://github.com/stacksjs/ts-videos) - Make your videos load faster. _A better save for the web._
+- [ts-watches](https://github.com/stacksjs/ts-watches) - Downloading, parsing, and analyzing data from smartwatches and fitness devices.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [ts-web-scraper](https://github.com/stacksjs/ts-web-scraper) - Powerful, type-safe web scraping tooling.
 - [very-happy-dom](https://github.com/stacksjs/very-happy-dom) - A blazing-fast DOM implementation.
