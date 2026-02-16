@@ -77,6 +77,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-dns](https://github.com/stacksjs/ts-dns) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
 - [ts-error-handling](https://github.com/stacksjs/ts-error-handling) - Fully typed error handling.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
+- [ts-health](https://github.com/stacksjs/ts-health) - Simply access & work with health, fitness, and smartwatch data.
 - [ts-i18n](https://github.com/stacksjs/ts-i18n) - A fully-typed i18n experience.
 - [ts-images](https://github.com/stacksjs/ts-images) - Make your images load faster. _A better save for the web._
 - [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
