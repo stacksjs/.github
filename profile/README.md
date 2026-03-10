@@ -48,7 +48,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [bumpx](https://github.com/stacksjs/bumpx) - Bump your version numbers automatically.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
 - [bun-query-builder](https://github.com/stacksjs/bun-query-builder) - A safe, performant & fully-typed query builder.
-- [bun-queue](https://github.com/stacksjs/queue) - A modern port of BullMQ. _Optimized for Bun usage._
+- [bun-queue](https://github.com/stacksjs/bun-queue) - A modern port of BullMQ. _Optimized for Bun usage._
 - [bun-router](https://github.com/stacksjs/bun-router) - A powerful yet lightweight router for your server. _Used by Stacks._
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
