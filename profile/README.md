@@ -33,12 +33,13 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 #### Sponsorware
 
 - [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
-- [Stacks Raycast](https://github.com/stacksjs/stacks) - Stacks _(and Buddy)_ integrated into Raycast.
+- [Stacks Raycast](https://github.com/stacksjs/raycast) - Stacks _(and Buddy)_ integrated into Raycast.
 
 #### Apps
 
 - [Barista](https://github.com/stacksjs/barista) - A lightweight macOS utility that serves up a perfectly organized menubar.
 - [Hush](https://github.com/stacksjs/hush) - Lightweight macOS utility that ensures notifications are suppressed during meetings.
+- [image-optimization](https://github.com/stacksjs/image-optimization) - A native-style image-optimization app modelled on ImageOptim. _Built with stx + Bun._
 - [Pomodoro](https://github.com/stacksjs/pomodoro) - Minimal, functional, yet simple Pomodoro menubar app, to help stay focussed. _For Mac._
 
 #### Libraries & CLIs
@@ -52,7 +53,12 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [bun-router](https://github.com/stacksjs/bun-router) - A powerful yet lightweight router for your server. _Used by Stacks._
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
+- [date-picker](https://github.com/stacksjs/date-picker) - 📆 The modern, beautifully-designed open source date picker. _Airbnb-style theme & more._
+- [devtools](https://github.com/stacksjs/devtools) - Stacks Devtools.
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
+- [dynamodb-client](https://github.com/stacksjs/dynamodb-client) - DynamoDB UI & Single Table Design made easy.
+- [dynamodb-tooling](https://github.com/stacksjs/dynamodb-tooling) - 🛠️ A simple local DynamoDB API. _Without the need for Docker._
+- [fonts](https://github.com/stacksjs/fonts) - A hand-picked collection of beautiful fonts, distributed on npm.
 - [gitit](https://github.com/stacksjs/gitit) - A simple way to download templates stored using git.
 - [gitlint](https://github.com/stacksjs/gitlint) - Minimal & fast Git commit message linting & formatting.
 - [httx](https://github.com/stacksjs/httx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
@@ -61,6 +67,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [pickier](https://github.com/stacksjs/pickier) - Format, lint, and more—in a fraction of second.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
 - [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
+- [table](https://github.com/stacksjs/table) - 🔎 The modern way to work with tables. _Blazing fast facet-filtering, sorting, and searching._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [ts-aax](https://github.com/stacksjs/ts-aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
 - [ts-analytics](https://github.com/stacksjs/ts-analytics) - Privacy-first analytics for web applications.
@@ -80,6 +87,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-datetime](https://github.com/stacksjs/ts-datetime) - Performant & powerful datetime library. _Carbon-API inspired._
 - [ts-dns](https://github.com/stacksjs/ts-dns) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
 - [ts-error-handling](https://github.com/stacksjs/ts-error-handling) - Fully typed error handling.
+- [ts-faker](https://github.com/stacksjs/ts-faker) - A performance-focused & lightweight faker / data mocking library. _Comprehensive locale support._
 - [ts-fonts](https://github.com/stacksjs/ts-fonts) - A fully-typed font editor library. _Read, write & transform SFNT fonts._
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-health](https://github.com/stacksjs/ts-health) - Simply access & work with health, fitness, and smartwatch data.
@@ -87,7 +95,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-images](https://github.com/stacksjs/ts-images) - Make your images load faster. _A better save for the web._
 - [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
 - [ts-jpeg](https://github.com/stacksjs/ts-jpeg) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
-- [ts-markdown](https://github.com/stacksjs/ts-markdown) - Extremely performant & lightweight markdown parser & compiler.
+- [ts-md](https://github.com/stacksjs/ts-md) - Extremely performant & lightweight markdown parser & compiler.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor) - A modern, minimal & performant Medium-like rich text editor.
 - [ts-mocker](https://github.com/stacksjs/ts-mocker) - Performance-focused & lightweight TypeScript faker library. _Comprehensive locale support._
@@ -107,6 +115,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [ts-svg](https://github.com/stacksjs/ts-svg) - Powerful developer toolkit for working with SVGs.
 - [ts-syntax-highlighter](https://github.com/stacksjs/ts-syntax-highlighter) - A syntax highlighter for the modern web. _Built for performance._
+- [ts-tokens](https://github.com/stacksjs/ts-tokens) - Fungible or non-fungible. _Choose your network._
 - [ts-validation](https://github.com/stacksjs/ts-validation) - Lightweight & performant form & request data validation library.
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
 - [ts-videos](https://github.com/stacksjs/ts-videos) - Make your videos load faster. _A better save for the web._
@@ -128,9 +137,11 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [bun-plugin-rpx](https://github.com/stacksjs/bun-plugin-rpx) -A modern, fast reverse proxy. _For a better local development environment._
 - [bun-plugin-tlsx](https://github.com/stacksjs/bun-plugin-tlsx) - Bun plugin for a modern TLS library with automation & HTTPS by default.
 - [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss) - “Instant On-demand Atomic CSS Engine” _- UnoCSS_
+- [bun-vue](https://github.com/stacksjs/bun-vue) - Performant bundling for Vue component declarations.
 - [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx) - A Vite plugin to seamlessly work with dotenvx.
 - [vite-plugin-layouts](https://github.com/stacksjs/vite-plugin-layouts) - Router-based layouts for your application.
 - [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local) - Pretty development URLs, and HTTPS. _Zero config, zero setup._
+- [vite-plugin-routes](https://github.com/stacksjs/vite-plugin-routes) - File-based routing for Vite.
 - [vite-plugin-rpx](https://github.com/stacksjs/rpx) - A Vite plugin for a modern, fast reverse proxy. _For a better local development environment._
 - [vite-plugin-tauri](https://github.com/stacksjs/vite-plugin-tauri) - Zero-setup, highly-configurable cross-platform development.
 - [vite-plugin-tlsx](https://github.com/stacksjs/tlsx) - Simple, yet powerful TLS library. _With automation & HTTPS by default._
@@ -141,6 +152,16 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [projects](https://github.com/stacksjs/projects) - A minimal personal portfolio template.
 - [ts-starter](https://github.com/stacksjs/ts-starter) - A rather barebones Bun & TypeScript starting point for libraries & CLIs.
 - [ts-starter-monorepo](https://github.com/stacksjs/ts-starter-monorepo) - Like our `ts-starter`, but optimized for monorepos.
+
+#### Distribution
+
+- [homebrew-tap](https://github.com/stacksjs/homebrew-tap) - Homebrew tap for Stacks packages.
+
+#### Community
+
+- [awesome-stacks](https://github.com/stacksjs/awesome-stacks) - 🎉 A curated list of awesome things related to Stacks.js.
+- [contributing](https://github.com/stacksjs/contributing) - 🤝 Are you interested in helping contribute? Get started here.
+- [sponsors](https://github.com/stacksjs/sponsors) - The Stacks backers & sponsors.
 
 _If you are curious about everything else, please check out the [everything](https://github.com/stacksjs/everything) repo._
 
