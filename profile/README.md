@@ -128,7 +128,6 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 #### Plugins & Actions
 
-- [action-launchpad](https://github.com/stacksjs/launchpad) - GitHub Action to install packages using Launchpad.
 - [action-logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
 - [action-releaser](https://github.com/stacksjs/action-releaser) - Simply attach files, like binaries & distributables, to GitHub Releases.
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
@@ -136,14 +135,11 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx) - Automatically generate your TypeScript DTS files, using Bun's bundler.
 - [bun-plugin-rpx](https://github.com/stacksjs/bun-plugin-rpx) -A modern, fast reverse proxy. _For a better local development environment._
 - [bun-plugin-tlsx](https://github.com/stacksjs/bun-plugin-tlsx) - Bun plugin for a modern TLS library with automation & HTTPS by default.
-- [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss) - “Instant On-demand Atomic CSS Engine” _- UnoCSS_
-- [bun-vue](https://github.com/stacksjs/bun-vue) - Performant bundling for Vue component declarations.
 - [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx) - A Vite plugin to seamlessly work with dotenvx.
 - [vite-plugin-layouts](https://github.com/stacksjs/vite-plugin-layouts) - Router-based layouts for your application.
 - [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local) - Pretty development URLs, and HTTPS. _Zero config, zero setup._
 - [vite-plugin-routes](https://github.com/stacksjs/vite-plugin-routes) - File-based routing for Vite.
 - [vite-plugin-rpx](https://github.com/stacksjs/rpx) - A Vite plugin for a modern, fast reverse proxy. _For a better local development environment._
-- [vite-plugin-tauri](https://github.com/stacksjs/vite-plugin-tauri) - Zero-setup, highly-configurable cross-platform development.
 - [vite-plugin-tlsx](https://github.com/stacksjs/tlsx) - Simple, yet powerful TLS library. _With automation & HTTPS by default._
 
 #### Templates
