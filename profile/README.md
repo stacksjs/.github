@@ -53,11 +53,11 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [bun-router](https://github.com/stacksjs/bun-router) - A powerful yet lightweight router for your server. _Used by Stacks._
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
-- [date-picker](https://github.com/stacksjs/date-picker) - 📆 The modern, beautifully-designed open source date picker. _Airbnb-style theme & more._
+- [date-picker](https://github.com/stacksjs/date-picker) - The modern, beautifully-designed open source date picker. _Airbnb-style theme & more._
 - [devtools](https://github.com/stacksjs/devtools) - Stacks Devtools.
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
 - [dynamodb-client](https://github.com/stacksjs/dynamodb-client) - DynamoDB UI & Single Table Design made easy.
-- [dynamodb-tooling](https://github.com/stacksjs/dynamodb-tooling) - 🛠️ A simple local DynamoDB API. _Without the need for Docker._
+- [dynamodb-tooling](https://github.com/stacksjs/dynamodb-tooling) - A simple local DynamoDB API. _Without the need for Docker._
 - [fonts](https://github.com/stacksjs/fonts) - A hand-picked collection of beautiful fonts, distributed on npm.
 - [gitit](https://github.com/stacksjs/gitit) - A simple way to download templates stored using git.
 - [gitlint](https://github.com/stacksjs/gitlint) - Minimal & fast Git commit message linting & formatting.
@@ -67,7 +67,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 - [pickier](https://github.com/stacksjs/pickier) - Format, lint, and more—in a fraction of second.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
 - [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
-- [table](https://github.com/stacksjs/table) - 🔎 The modern way to work with tables. _Blazing fast facet-filtering, sorting, and searching._
+- [table](https://github.com/stacksjs/table) - The modern way to work with tables. _Blazing fast facet-filtering, sorting, and searching._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [ts-aax](https://github.com/stacksjs/ts-aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
 - [ts-analytics](https://github.com/stacksjs/ts-analytics) - Privacy-first analytics for web applications.
@@ -151,8 +151,8 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 #### Community
 
-- [awesome-stacks](https://github.com/stacksjs/awesome-stacks) - 🎉 A curated list of awesome things related to Stacks.js.
-- [contributing](https://github.com/stacksjs/contributing) - 🤝 Are you interested in helping contribute? Get started here.
+- [awesome-stacks](https://github.com/stacksjs/awesome-stacks) - A curated list of awesome things related to Stacks.js.
+- [contributing](https://github.com/stacksjs/contributing) - Are you interested in helping contribute? Get started here.
 - [sponsors](https://github.com/stacksjs/sponsors) - The Stacks backers & sponsors.
 
 _If you are curious about everything else, please check out the [everything](https://github.com/stacksjs/everything) repo._
