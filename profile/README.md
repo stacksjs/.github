@@ -39,7 +39,8 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 - [Barista](https://github.com/stacksjs/barista) - A lightweight macOS utility that serves up a perfectly organized menubar.
 - [Hush](https://github.com/stacksjs/hush) - Lightweight macOS utility that ensures notifications are suppressed during meetings.
-- [image-optimization](https://github.com/stacksjs/image-optimization) - A native-style image-optimization app modelled on ImageOptim. _Built with stx + Bun._
+- [ImageOptimization](https://github.com/stacksjs/image-optimization) - A native-style image-optimization app modelled on ImageOptim. _Built with stx + Bun._
+- [Launchpad](https://github.com/stacksjs/launchpad) - A minimal, performant and powerful Raycast-like finder window.
 - [Pomodoro](https://github.com/stacksjs/pomodoro) - Minimal, functional, yet simple Pomodoro menubar app, to help stay focussed. _For Mac._
 
 #### Libraries & CLIs
@@ -48,7 +49,7 @@ Discover the power of Stacks, a modern web application framework developed in Ty
 
 #### Plugins & Actions
 
-[action-launchpad](https://github.com/stacksjs/launchpad), [action-logsmith](https://github.com/stacksjs/logsmith), [action-releaser](https://github.com/stacksjs/action-releaser), [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports), [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx), [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx), [bun-plugin-rpx](https://github.com/stacksjs/bun-plugin-rpx), [bun-plugin-tlsx](https://github.com/stacksjs/bun-plugin-tlsx), [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss), [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx), [vite-plugin-layouts](https://github.com/stacksjs/vite-plugin-layouts), [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local), [vite-plugin-rpx](https://github.com/stacksjs/rpx), [vite-plugin-tauri](https://github.com/stacksjs/vite-plugin-tauri), [vite-plugin-tlsx](https://github.com/stacksjs/tlsx)
+[action-logsmith](https://github.com/stacksjs/logsmith), [action-releaser](https://github.com/stacksjs/action-releaser), [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports), [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx), [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx), [bun-plugin-rpx](https://github.com/stacksjs/bun-plugin-rpx), [bun-plugin-tlsx](https://github.com/stacksjs/bun-plugin-tlsx), [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss), [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx), [vite-plugin-layouts](https://github.com/stacksjs/vite-plugin-layouts), [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local), [vite-plugin-rpx](https://github.com/stacksjs/rpx), [vite-plugin-tauri](https://github.com/stacksjs/vite-plugin-tauri), [vite-plugin-tlsx](https://github.com/stacksjs/tlsx)
 
 #### Templates
 
