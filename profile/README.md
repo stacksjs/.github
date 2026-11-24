@@ -64,7 +64,7 @@
 
 [ts-countries](https://github.com/stacksjs/ts-countries), [ts-datetime](https://github.com/stacksjs/ts-datetime), [ts-error-handling](https://github.com/stacksjs/ts-error-handling), [ts-faker](https://github.com/stacksjs/ts-faker), [ts-i18n](https://github.com/stacksjs/ts-i18n), [ts-numbers](https://github.com/stacksjs/ts-numbers), [ts-punycode](https://github.com/stacksjs/ts-punycode), [ts-slug](https://github.com/stacksjs/ts-slug), [ts-vat](https://github.com/stacksjs/ts-vat)
 
-Related projects include [Zig libraries](https://github.com/zig-utils), the [Den shell](https://github.com/den-shell/den), and [Crosswind](https://github.com/cwcss).
+Related projects include [Zig libraries](https://github.com/zig-utils) and the [Den shell](https://github.com/den-shell/den).
 
 ## Plugins, actions, and starters
 
