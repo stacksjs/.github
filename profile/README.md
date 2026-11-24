@@ -13,7 +13,7 @@
 | Project | What it does |
 | --- | --- |
 | [Stacks](https://github.com/stacksjs/stacks) | Full-stack application framework and the Buddy CLI for development, testing, and deployment. |
-| [stx](https://github.com/stacksjs/stx) | UI framework and template engine with Blade-style syntax. |
+| [stx](https://github.com/stacksjs/stx) | UI framework and template engine with Vue & Blade-like style syntax. |
 | [ts-css](https://github.com/stacksjs/ts-css) | Utility-first CSS engine. |
 | [Craft](https://github.com/craft-native/craft) | Native desktop and mobile apps built with web languages. |
 | [BunPress](https://github.com/stacksjs/bunpress) | Documentation sites from Markdown. |
@@ -29,11 +29,8 @@
 - [Scout](https://github.com/stacksjs/launchpad) - A keyboard-first Mac launcher for apps, files, quicklinks, snippets, and system commands.
 - [Hush](https://github.com/stacksjs/hush) - Automatically silence Mac notifications while you share your screen.
 - [Uplink](https://github.com/stacksjs/uplink) - Reach Claude Code or Codex on your Mac from Messages, including over satellite on supported iPhones.
-- [Texts](https://github.com/stacksjs/texts) - A Mac inbox and searchable archive for Messages, WhatsApp, Slack, and Discord.
 - [TinkerBelle](https://github.com/stacksjs/tinkerbelle) - Run TypeScript against your app locally or on a server.
-- [Kept](https://github.com/stacksjs/library) - Tasks, notes, and shareable prompt libraries on the web and Mac.
 - [Postline](https://github.com/stacksjs/postline) - Self-hosted social publishing with scheduling, analytics, and a unified inbox.
-- [Cursio](https://github.com/stacksjs/cursio) - Run an online school with a learning management system built on Stacks.
 
 [Barista](https://github.com/stacksjs/barista), [Pomodoro](https://github.com/stacksjs/pomodoro), and [Image Optimization](https://github.com/stacksjs/image-optimization) are also available, alongside [Wildloop](https://github.com/stacksjs/wildloop), [AnalyticsHQ](https://github.com/stacksjs/analyticshq), [HQ.support](https://github.com/stacksjs/hq.support), and [LessonStack](https://github.com/stacksjs/lessonstack).
 
