@@ -54,7 +54,7 @@
 
 ### UI and documents
 
-[date-picker](https://github.com/stacksjs/date-picker), [ts-charts](https://github.com/stacksjs/ts-charts), [ts-css-legacy](https://github.com/stacksjs/ts-css-legacy), [ts-font-editor](https://github.com/stacksjs/ts-fonts), [ts-inputs](https://github.com/stacksjs/ts-inputs), [ts-maps](https://github.com/stacksjs/ts-maps), [ts-md](https://github.com/stacksjs/ts-md), [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor), [ts-presentation](https://github.com/stacksjs/ts-presentation), [ts-qr-codes](https://github.com/stacksjs/ts-qr-codes), [ts-syntax-highlighter](https://github.com/stacksjs/ts-syntax-highlighter), [very-happy-dom](https://github.com/stacksjs/very-happy-dom)
+[date-picker](https://github.com/stacksjs/date-picker), [ts-charts](https://github.com/stacksjs/ts-charts), [ts-font-editor](https://github.com/stacksjs/ts-fonts), [ts-inputs](https://github.com/stacksjs/ts-inputs), [ts-maps](https://github.com/stacksjs/ts-maps), [ts-md](https://github.com/stacksjs/ts-md), [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor), [ts-presentation](https://github.com/stacksjs/ts-presentation), [ts-qr-codes](https://github.com/stacksjs/ts-qr-codes), [ts-syntax-highlighter](https://github.com/stacksjs/ts-syntax-highlighter), [very-happy-dom](https://github.com/stacksjs/very-happy-dom)
 
 ### App services
 
