@@ -1,68 +1,80 @@
-![Social Card of Stacks](https://raw.githubusercontent.com/stacksjs/stacks/refs/heads/main/public/images/social.png)
+![Stacks](https://raw.githubusercontent.com/stacksjs/stacks/refs/heads/main/public/images/social.png)
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-## About Stacks
+# Stacks
 
-Discover the power of Stacks, a modern web application framework developed in TypeScript. Our philosophy centers around crafting an exceptional DX, one that empowers developers to build world-class web applications, libraries, and endlessly scalable clouds.
+[Stacks](https://github.com/stacksjs/stacks) is a full-stack TypeScript framework on Bun. It brings typed models and migrations, file and API routing, auth, queues, real-time events, and cloud deployment together. Use its standalone packages in other projects too.
 
-- Automated database-agnostic schema migrations, seeders & factories.
-- Self-hosted and self-managed cloud infrastructure.
-- Insightful deployment and release manager.
-- Smart file & familiar API based routing.
-- Reliable background job processing.
-- Real-time event communication.
-- Simplistic, powerful caching.
-- Fully-typed database ORM.
+[Documentation](https://stacksjs.com/docs) · [Framework source](https://github.com/stacksjs/stacks) · [Public repositories](https://github.com/orgs/stacksjs/repositories)
 
-> _“Remove the boilerplate, focus on what matters & supercharge your development.”_
+## Start here
 
-### A few highlights...
+| Project | What it does |
+| --- | --- |
+| [Stacks](https://github.com/stacksjs/stacks) | Full-stack application framework and the Buddy CLI for development, testing, and deployment. |
+| [stx](https://github.com/stacksjs/stx) | UI framework and template engine with Blade-style syntax. |
+| [ts-css](https://github.com/stacksjs/ts-css) | Utility-first CSS engine. |
+| [Craft](https://github.com/craft-native/craft) | Native desktop and mobile apps built with web languages. |
+| [BunPress](https://github.com/stacksjs/bunpress) | Documentation sites from Markdown. |
+| [Clapp](https://github.com/stacksjs/clapp) | TypeScript framework for command-line apps. |
+| [Pantry](https://github.com/pantry-pm/pantry) | Package and toolchain management. |
+| [Buddy](https://github.com/stacksjs/buddy) | AI code review and dependency updates for GitHub projects. |
+| [Pickier](https://github.com/pickier/pickier) | Linting and formatting. |
+| [Home](https://github.com/home-lang/home) | A language and toolchain for JavaScript and TypeScript. |
 
-#### Languages & Frameworks
+## Apps built with Stacks
 
-- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
-- [stx](https://github.com/stacksjs/stx) - A fast & powerful UI framework. _Templating inspired by Laravel Blade & Vue._
-- [Craft](https://github.com/home-lang/craft) - Performant, native desktop & mobile apps with web languages.
-- [Pantry](https://github.com/home-lang/pantry) - Performant system & project dependency management. _Similar to Homebrew, just faster._
-- [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
-- [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
-- [ts-css](https://github.com/cwcss/crosswind) - A Tailwind-like utility-first CSS framework / library. _Powered by Bun._
-- [Home](https://github.com/home-lang/home) - Control of Zig. Safety of Rust. Joy of TypeScript.
+- [SystemCleaner](https://github.com/stacksjs/system-cleaner) - Find what is filling your Mac and review what gets removed. Everything runs locally.
+- [Scout](https://github.com/stacksjs/launchpad) - A keyboard-first Mac launcher for apps, files, quicklinks, snippets, and system commands.
+- [Hush](https://github.com/stacksjs/hush) - Automatically silence Mac notifications while you share your screen.
+- [Uplink](https://github.com/stacksjs/uplink) - Reach Claude Code or Codex on your Mac from Messages, including over satellite on supported iPhones.
+- [Texts](https://github.com/stacksjs/texts) - A Mac inbox and searchable archive for Messages, WhatsApp, Slack, and Discord.
+- [TinkerBelle](https://github.com/stacksjs/tinkerbelle) - Run TypeScript against your app locally or on a server.
+- [Kept](https://github.com/stacksjs/library) - Tasks, notes, and shareable prompt libraries on the web and Mac.
+- [Postline](https://github.com/stacksjs/postline) - Self-hosted social publishing with scheduling, analytics, and a unified inbox.
+- [Cursio](https://github.com/stacksjs/cursio) - Run an online school with a learning management system built on Stacks.
 
-#### Sponsorware
+[Barista](https://github.com/stacksjs/barista), [Pomodoro](https://github.com/stacksjs/pomodoro), and [Image Optimization](https://github.com/stacksjs/image-optimization) are also available, alongside [Wildloop](https://github.com/stacksjs/wildloop), [AnalyticsHQ](https://github.com/stacksjs/analyticshq), [HQ.support](https://github.com/stacksjs/hq.support), and [LessonStack](https://github.com/stacksjs/lessonstack).
 
-- [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
-- [Stacks Raycast](https://github.com/stacksjs/raycast) - Stacks _(and Buddy)_ integrated into Raycast.
+## Libraries and CLIs
 
-#### Apps
+### Build and developer tools
 
-- [Barista](https://github.com/stacksjs/barista) - A lightweight macOS utility that serves up a perfectly organized menubar.
-- [Hush](https://github.com/stacksjs/hush) - Lightweight macOS utility that ensures notifications are suppressed during meetings.
-- [ImageOptimization](https://github.com/stacksjs/image-optimization) - A native-style image-optimization app modelled on ImageOptim. _Built with stx + Bun._
-- [Launchpad](https://github.com/stacksjs/launchpad) - A minimal, performant and powerful Raycast-like finder window.
-- [Pomodoro](https://github.com/stacksjs/pomodoro) - Minimal, functional, yet simple Pomodoro menubar app, to help stay focussed. _For Mac._
+[better-dx](https://github.com/stacksjs/better-dx), [besting](https://github.com/stacksjs/besting), [bumpx](https://github.com/stacksjs/bumpx), [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks), [bunfig](https://github.com/stacksjs/bunfig), [clarity](https://github.com/stacksjs/clarity), [dtsx](https://github.com/stacksjs/dtsx), [gitit](https://github.com/stacksjs/gitit), [gitlint](https://github.com/stacksjs/gitlint), [logsmith](https://github.com/stacksjs/logsmith), [ts-spell-check](https://github.com/stacksjs/ts-spell-check)
 
-#### Libraries & CLIs
+### Cloud and networking
 
-[besting](https://github.com/stacksjs/besting), [buddy-bot](https://github.com/stacksjs/buddy), [bumpx](https://github.com/stacksjs/bumpx), [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks), [bun-query-builder](https://github.com/stacksjs/bun-query-builder), [bun-queue](https://github.com/stacksjs/queue), [bun-router](https://github.com/stacksjs/bun-router), [bunfig](https://github.com/stacksjs/bunfig), [clarity](https://github.com/stacksjs/clarity), [dtsx](https://github.com/stacksjs/dtsx), [gitit](https://github.com/stacksjs/gitit), [gitlint](https://github.com/stacksjs/gitlint), [httx](https://github.com/stacksjs/httx), [localtunnels](https://github.com/stacksjs/localtunnels), [logsmith](https://github.com/stacksjs/logsmith), [pickier](https://github.com/stacksjs/pickier), [post](https://github.com/stacksjs/post), [tlsx](https://github.com/stacksjs/tlsx), [ts-aax](https://github.com/stacksjs/ts-aax), [ts-analytics](https://github.com/stacksjs/ts-analytics), [ts-audio](https://github.com/stacksjs/ts-audio), [ts-avif](https://github.com/stacksjs/ts-avif), [ts-backups](https://github.com/stacksjs/ts-backups), [ts-bmp](https://github.com/stacksjs/ts-bmp), [ts-broadcasting](https://github.com/stacksjs/ts-broadcasting), [ts-cache](https://github.com/stacksjs/ts-cache), [ts-clone](https://github.com/stacksjs/ts-clone), [ts-cloud](https://github.com/stacksjs/ts-cloud), [ts-collect](https://github.com/stacksjs/ts-collect), [ts-countries](https://github.com/stacksjs/ts-countries), [ts-datetime](https://github.com/stacksjs/ts-datetime), [ts-dns](https://github.com/stacksjs/ts-dns), [ts-error-handling](https://github.com/stacksjs/ts-error-handling), [ts-garmin](https://github.com/stacksjs/ts-garmin), [ts-gif](https://github.com/stacksjs/ts-gif), [ts-git-lfs](https://github.com/stacksjs/ts-git-lfs), [ts-i18n](https://github.com/stacksjs/ts-i18n), [ts-images](https://github.com/stacksjs/ts-images), [ts-inputs](https://github.com/stacksjs/ts-inputs), [ts-jpeg](https://github.com/stacksjs/ts-jpeg), [ts-markdown](https://github.com/stacksjs/ts-markdown), [ts-maps](https://github.com/stacksjs/ts-maps), [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor), [ts-mocker](https://github.com/stacksjs/ts-mocker), [ts-ndarray](https://github.com/stacksjs/ts-ndarray), [ts-numbers](https://github.com/stacksjs/ts-numbers), [ts-open-api](https://github.com/stacksjs/ts-open-api), [ts-pantry](https://github.com/stacksjs/ts-pantry), [ts-png](https://github.com/stacksjs/ts-png), [ts-punycode](https://github.com/stacksjs/ts-punycode), [ts-qr-codes](https://github.com/stacksjs/ts-qr-codes), [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter), [ts-reverse-proxy](https://github.com/stacksjs/ts-reverse-proxy), [ts-security](https://github.com/stacksjs/ts-security), [ts-slug](https://github.com/stacksjs/ts-slug), [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets), [ts-ssh](https://github.com/stacksjs/ts-ssh), [ts-svg](https://github.com/stacksjs/ts-svg), [ts-syntax-highlighter](https://github.com/stacksjs/ts-syntax-highlighter), [ts-validation](https://github.com/stacksjs/ts-validation), [ts-vat](https://github.com/stacksjs/ts-vat), [ts-videos](https://github.com/stacksjs/ts-videos), [ts-video-player](https://github.com/stacksjs/ts-video-player), [ts-watches](https://github.com/stacksjs/ts-watches), [ts-webp](https://github.com/stacksjs/ts-webp), [ts-web-scraper](https://github.com/stacksjs/ts-web-scraper), [very-happy-dom](https://github.com/stacksjs/very-happy-dom)
+[localtunnels](https://github.com/stacksjs/localtunnels), [rpx](https://github.com/stacksjs/rpx), [tlsx](https://github.com/stacksjs/tlsx), [ts-cloud](https://github.com/stacksjs/ts-cloud), [dnsx](https://github.com/stacksjs/ts-dns), [httx](https://github.com/stacksjs/ts-http), [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter), [ts-sftp](https://github.com/stacksjs/ts-sftp), [ts-ssh](https://github.com/stacksjs/ts-ssh), [ts-web-scraper](https://github.com/stacksjs/ts-web-scraper)
 
-#### Plugins & Actions
+### Data and storage
 
-[action-logsmith](https://github.com/stacksjs/logsmith), [action-releaser](https://github.com/stacksjs/action-releaser), [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports), [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx), [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx), [bun-plugin-rpx](https://github.com/stacksjs/bun-plugin-rpx), [bun-plugin-tlsx](https://github.com/stacksjs/bun-plugin-tlsx), [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss), [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx), [vite-plugin-layouts](https://github.com/stacksjs/vite-plugin-layouts), [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local), [vite-plugin-rpx](https://github.com/stacksjs/rpx), [vite-plugin-tauri](https://github.com/stacksjs/vite-plugin-tauri), [vite-plugin-tlsx](https://github.com/stacksjs/tlsx)
+[bun-query-builder](https://github.com/stacksjs/bun-query-builder), [dynamodb-tooling](https://github.com/stacksjs/dynamodb-tooling), [php-spreadsheets](https://github.com/stacksjs/php-spreadsheets), [ts-backups](https://github.com/stacksjs/ts-backups), [ts-cache](https://github.com/stacksjs/ts-cache), [ts-clone](https://github.com/stacksjs/ts-clone), [ts-collect](https://github.com/stacksjs/ts-collect), [ts-git-lfs](https://github.com/stacksjs/ts-git-lfs), [ts-ndarray](https://github.com/stacksjs/ts-ndarray), [ts-open-api](https://github.com/stacksjs/ts-open-api), [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets), [ts-validation](https://github.com/stacksjs/ts-validation), [ts-xml](https://github.com/stacksjs/ts-xml)
 
-#### Templates
+### Images and media
 
-[better-dx](https://github.com/stacksjs/better-dx), [projects](https://github.com/stacksjs/projects), [ts-starter](https://github.com/stacksjs/ts-starter), [ts-starter-monorepo](https://github.com/stacksjs/ts-starter-monorepo)
+[ts-aax](https://github.com/stacksjs/ts-aax), [ts-audio](https://github.com/stacksjs/ts-audio), [ts-avif](https://github.com/stacksjs/ts-avif), [ts-bmp](https://github.com/stacksjs/ts-bmp), [ts-gif](https://github.com/stacksjs/ts-gif), [ts-heic](https://github.com/stacksjs/ts-heic), [ts-images](https://github.com/stacksjs/ts-images), [ts-jpeg](https://github.com/stacksjs/ts-jpeg), [ts-png](https://github.com/stacksjs/ts-png), [ts-svg](https://github.com/stacksjs/ts-svg), [ts-video-player](https://github.com/stacksjs/ts-video-player), [ts-videos](https://github.com/stacksjs/ts-videos), [ts-webp](https://github.com/stacksjs/ts-webp)
 
-#### Community
+### UI and documents
 
-- [awesome-stacks](https://github.com/stacksjs/awesome-stacks) - A curated list of awesome things related to Stacks.js.
-- [contributing](https://github.com/stacksjs/contributing) - Are you interested in helping contribute? Get started here.
-- [sponsors](https://github.com/stacksjs/sponsors) - The Stacks backers & sponsors.
+[date-picker](https://github.com/stacksjs/date-picker), [ts-charts](https://github.com/stacksjs/ts-charts), [ts-css-legacy](https://github.com/stacksjs/ts-css-legacy), [ts-font-editor](https://github.com/stacksjs/ts-fonts), [ts-inputs](https://github.com/stacksjs/ts-inputs), [ts-maps](https://github.com/stacksjs/ts-maps), [ts-md](https://github.com/stacksjs/ts-md), [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor), [ts-presentation](https://github.com/stacksjs/ts-presentation), [ts-qr-codes](https://github.com/stacksjs/ts-qr-codes), [ts-syntax-highlighter](https://github.com/stacksjs/ts-syntax-highlighter), [very-happy-dom](https://github.com/stacksjs/very-happy-dom)
 
-_If you are curious about everything else, please check out the [everything](https://github.com/stacksjs/everything) repo._
+### App services
 
-___
+[bun-queue](https://github.com/stacksjs/bun-queue), [bun-router](https://github.com/stacksjs/bun-router), [post](https://github.com/stacksjs/post), [ts-analytics](https://github.com/stacksjs/ts-analytics), [ts-auth](https://github.com/stacksjs/ts-auth), [ts-broadcasting](https://github.com/stacksjs/ts-broadcasting), [ts-health](https://github.com/stacksjs/ts-health), [ts-printers](https://github.com/stacksjs/ts-printers), [ts-security](https://github.com/stacksjs/ts-security), [ts-tokens](https://github.com/stacksjs/ts-tokens), [ts-watches](https://github.com/stacksjs/ts-watches), [ts-whatsapp](https://github.com/stacksjs/ts-whatsapp)
 
-### Stay tuned. Coming soon.
+### App utilities
+
+[ts-countries](https://github.com/stacksjs/ts-countries), [ts-datetime](https://github.com/stacksjs/ts-datetime), [ts-error-handling](https://github.com/stacksjs/ts-error-handling), [ts-faker](https://github.com/stacksjs/ts-faker), [ts-i18n](https://github.com/stacksjs/ts-i18n), [ts-numbers](https://github.com/stacksjs/ts-numbers), [ts-punycode](https://github.com/stacksjs/ts-punycode), [ts-slug](https://github.com/stacksjs/ts-slug), [ts-vat](https://github.com/stacksjs/ts-vat)
+
+Related projects include [Zig libraries](https://github.com/zig-utils), the [Den shell](https://github.com/den-shell/den), and [Crosswind](https://github.com/cwcss).
+
+## Plugins, actions, and starters
+
+- **Plugins and actions** · [action-releaser](https://github.com/stacksjs/action-releaser), [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports), [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx), [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx), [bun-plugin-markdown](https://github.com/stacksjs/bun-plugin-markdown), [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss), [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx), [vite-plugin-layouts](https://github.com/stacksjs/vite-plugin-layouts), [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local), [vite-plugin-routes](https://github.com/stacksjs/vite-plugin-routes), [vite-plugin-tauri](https://github.com/stacksjs/vite-plugin-tauri)
+- **Starters** · [projects](https://github.com/stacksjs/projects), [ts-starter](https://github.com/stacksjs/ts-starter), [ts-starter-monorepo](https://github.com/stacksjs/ts-starter-monorepo)
+- **Sponsorware** · [Stacks Dashboard](https://github.com/stacksjs/stacks) and [Stacks Raycast](https://github.com/stacksjs/raycast)
+
+## Community
+
+[Contributing](https://github.com/stacksjs/.github/blob/main/CONTRIBUTING.md) · [Awesome Stacks](https://github.com/stacksjs/awesome-stacks) · [Sponsors](https://github.com/stacksjs/sponsors) · [Ecosystem workspace](https://github.com/stacksjs/everything)
